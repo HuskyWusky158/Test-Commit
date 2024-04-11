@@ -1,2 +1,2 @@
 # Test-Commit
-Test commit for CS361
+This is my test commit for CS361 assignment two.
